@@ -8,6 +8,8 @@ image:https://ci.centos.org/buildStatus/icon?job=devtools-almighty-core-build-ma
 image:https://goreportcard.com/badge/github.com/almighty/almighty-core[Go Report Card, link="https://goreportcard.com/report/github.com/almighty/almighty-core"]
 image:https://godoc.org/github.com/almighty/almighty-core?status.png[GoDoc,link="https://godoc.org/github.com/almighty/almighty-core"]
 image:https://codecov.io/gh/almighty/almighty-core/branch/master/graph/badge.svg[Codecov.io,link="https://codecov.io/gh/almighty/almighty-core"]
+image:https://img.shields.io/badge/swagger-api-green.svg[Swagger, link="http://swagger.goa.design/?url=almighty%2Falmighty-core"]
+
 
 == Building from source [[building]]
 
